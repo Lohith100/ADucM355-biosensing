@@ -43,6 +43,13 @@ This repository includes the following design files and images:
     
     *   Source code, project files, and compiled binaries.
 
-![PCB 3D Model](https://github.com/user-attachments/assets/c67bc5bb-dccb-491f-883d-31da3d32d057)
-![PCB Design](https://github.com/user-attachments/assets/42c4054b-d329-42a1-ace8-d7a2b304c46d)
-![PCB Schematic](https://github.com/user-attachments/assets/a2e5ea89-0ae3-4374-85a6-4a653fdb4996)
+
+<img width="1277" height="844" alt="Image" src="https://github.com/user-attachments/assets/55cc578f-60f6-490a-9fa2-96fbe09f31b6" />
+
+<img width="791" height="285" alt="Image" src="https://github.com/user-attachments/assets/f81c4e2b-68a0-439b-8edd-394b6f2d1f6b" />
+<img width="831" height="417" alt="Image" src="https://github.com/user-attachments/assets/9bd491ea-0c86-472f-8ba8-17268402f602" />
+
+
+![Image](https://github.com/user-attachments/assets/f5c649f1-8d91-4763-b797-389e8baecb37)
+<img width="656" height="270" alt="Image" src="https://github.com/user-attachments/assets/6b814cdc-f203-4ff7-bb57-5f732bc379be" />
+<img width="821" height="328" alt="Image" src="https://github.com/user-attachments/assets/d7e58dc3-41cf-435f-96dc-87d790d34ba1" />
